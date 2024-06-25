@@ -10,10 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
-
+    
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,4 +25,4 @@ I have five years of industry experience, where I worked as a Student Informatio
 
 My goals are to solidify my research track record, start my professorship at a reputable institute, and grow my company to be a profitable business with a steady clientele.
 
-I am a wife and a mother of two kids, a 13-year-old boy and a 6-year-old daughter. I like to read, watch TV, and listen to music. I also have an interest in learning new languages. Currently, I am bilingual, with a dream to be a polyglot one day.
+I am a wife and a mother of two kids, a 13-year-old boy and a 6-year-old daughter. I like to read, watch TV, and listen to music. I also have an interest in learning new languages. Currently, I am bilingual, with a dream to be a polyglot one da
