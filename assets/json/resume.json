@@ -20,7 +20,7 @@
       "position": "Visiting Assistant Professor",
       "url": "",
       "startDate": "2024-01-01",
-      "endDate": "Present",
+      "endDate": "2024-30-5",
       "summary": "Deliver comprehensive lectures and facilitate learning in advanced computer science courses.",
       "highlights": [
         "Software Specification",
@@ -32,7 +32,7 @@
       "position": "Casual Faculty",
       "url": "",
       "startDate": "2024-02-01",
-      "endDate": "Present",
+      "endDate": "2024-30-5",
       "summary": "Leading a team of subject matter experts to revamp the Business Intelligence Program.",
       "highlights": []
     },
@@ -110,20 +110,11 @@
     },
     {
       "name": "ITWorx Egypt",
-      "position": "Solutions Specialist",
+      "position": "Solutions Specialist, Software Engineer",
       "url": "",
       "startDate": "2007-01-01",
       "endDate": "2008-12-31",
-      "summary": "Developed technical proposals and collaborated with sales and marketing teams.",
-      "highlights": []
-    },
-    {
-      "name": "ITWorx Egypt",
-      "position": "Software Engineer",
-      "url": "",
-      "startDate": "2007-01-01",
-      "endDate": "2007-12-31",
-      "summary": "Developed and tested software solutions, ensuring they met project specifications.",
+      "summary": "Developed technical proposals and collaborated with sales and marketing teams.Developed and tested software solutions, ensuring they met project specifications.",
       "highlights": []
     }
   ],
@@ -153,7 +144,7 @@
       "score": "3.811/4.0 (Sum Cum Laude)"
     }
   ],
-  "certificates": [
+  "certificates and courses": [
     {
       "name": "Microsoft Certified Trainer",
       "date": "2024-01-01",
@@ -326,32 +317,6 @@
     {
       "name": "Sherif Gamal Aly",
       "reference": "Professor and Chair, Department of Computer Science and Engineering, The American University in Cairo"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Collaborative Environment Services",
-      "summary": "Developed the SVM classifier to enhance data categorization accuracy.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Digital Content Services",
-      "summary": "Integrated the DBSCAN clustering algorithm into a digital information retrieval project.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Multimedia and Mobile Content Services",
-      "summary": "Innovated a new project for real-time video annotations and filed a patent.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
     }
   ]
 }
