@@ -2,12 +2,11 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses I Taught.
+description: 
 nav: true
 nav_order: 1
 ---
 
-## Teaching Experience
 
 ### Canadian University Dubai, UAE
 **Visiting Assistant Professor**
