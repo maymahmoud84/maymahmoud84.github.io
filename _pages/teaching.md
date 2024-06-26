@@ -8,14 +8,14 @@ nav_order: 1
 ---
 
 
-### Canadian University Dubai, UAE
+### Canadian University Dubai, School of Egnieering and Applied Science and Technologies, UAE (Spring 2024)
 **Visiting Assistant Professor**
-- **Software Specification**: This course focuses on the theory of computing, computability issues in software specifications, automata, grammar-based techniques, and software verification.
-- **Virtualization and Cloud Computing**: This course introduces the fundamentals of cloud computing and investigates current cloud computing technologies, including technologies for infrastructure, virtualization, and mobile computing.
+- **BCS 203-Software Specification**: This course focuses on the theory of computing, computability issues in software specifications, automata, grammar-based techniques, and software verification.
+- **NET405-Virtualization and Cloud Computing**: This course introduces the fundamentals of cloud computing and investigates current cloud computing technologies, including technologies for infrastructure, virtualization, and mobile computing.
 
 ### University of Calgary, Computer Science Department, Alberta, Canada (2021-2022)
 **Instructor**
-- CPSC 594: Software Engineering Capstone Project Course (Fall 2021/Winter 2022)
+- **CPSC 594: Software Engineering Capstone Project Course**: This course focus on getting students to have real-life experience of a yearlong project with an industry partner, they get to practice things like project scoping, requirement gathering, agile project management and system design and delivery (Fall 2021/Winter 2022)
 
 ### University of Calgary, Computer Science Department, Alberta, Canada (2015-2020)
 **Graduate Teaching Assistant**
